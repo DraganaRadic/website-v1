@@ -39,10 +39,10 @@ document.querySelectorAll('.navbar-nav .nav-link').forEach(link => {
 
   const WORDS = [
     'Start small',
-    'Stop starting — start finishing',
+    'Stop starting - start finishing',
     'Less is more',
     'Keep it simple',
-    'Wordset — mindset',
+    'Wordset - mindset',
     'Just do it',
     'Sky is the limit',
     'Customer is always right',
